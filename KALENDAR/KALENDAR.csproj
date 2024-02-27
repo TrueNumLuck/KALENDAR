@@ -83,6 +83,7 @@
     <Compile Include="ChangeWindow.xaml.cs">
       <DependentUpon>ChangeWindow.xaml</DependentUpon>
     </Compile>
+    <Compile Include="Var.cs" />
     <Compile Include="WatchWindow.xaml.cs">
       <DependentUpon>WatchWindow.xaml</DependentUpon>
     </Compile>
