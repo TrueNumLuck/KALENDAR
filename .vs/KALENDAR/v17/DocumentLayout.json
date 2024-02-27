@@ -1,0 +1,102 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\snek\\Desktop\\calendar\\KALENDAR\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{10A96C09-1A70-4056-834F-3F909E63D8A3}|KALENDAR\\KALENDAR.csproj|c:\\users\\snek\\desktop\\calendar\\kalendar\\kalendar\\changewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10A96C09-1A70-4056-834F-3F909E63D8A3}|KALENDAR\\KALENDAR.csproj|solutionrelative:kalendar\\changewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10A96C09-1A70-4056-834F-3F909E63D8A3}|KALENDAR\\KALENDAR.csproj|c:\\users\\snek\\desktop\\calendar\\kalendar\\kalendar\\changewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{10A96C09-1A70-4056-834F-3F909E63D8A3}|KALENDAR\\KALENDAR.csproj|solutionrelative:kalendar\\changewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10A96C09-1A70-4056-834F-3F909E63D8A3}|KALENDAR\\KALENDAR.csproj|c:\\users\\snek\\desktop\\calendar\\kalendar\\kalendar\\watchwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{10A96C09-1A70-4056-834F-3F909E63D8A3}|KALENDAR\\KALENDAR.csproj|solutionrelative:kalendar\\watchwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10A96C09-1A70-4056-834F-3F909E63D8A3}|KALENDAR\\KALENDAR.csproj|c:\\users\\snek\\desktop\\calendar\\kalendar\\kalendar\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10A96C09-1A70-4056-834F-3F909E63D8A3}|KALENDAR\\KALENDAR.csproj|solutionrelative:kalendar\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10A96C09-1A70-4056-834F-3F909E63D8A3}|KALENDAR\\KALENDAR.csproj|c:\\users\\snek\\desktop\\calendar\\kalendar\\kalendar\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{10A96C09-1A70-4056-834F-3F909E63D8A3}|KALENDAR\\KALENDAR.csproj|solutionrelative:kalendar\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ChangeWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\snek\\Desktop\\calendar\\KALENDAR\\KALENDAR\\ChangeWindow.xaml.cs",
+              "RelativeDocumentMoniker": "KALENDAR\\ChangeWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\snek\\Desktop\\calendar\\KALENDAR\\KALENDAR\\ChangeWindow.xaml.cs",
+              "RelativeToolTip": "KALENDAR\\ChangeWindow.xaml.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAYwDAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T15:57:24.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ChangeWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\snek\\Desktop\\calendar\\KALENDAR\\KALENDAR\\ChangeWindow.xaml",
+              "RelativeDocumentMoniker": "KALENDAR\\ChangeWindow.xaml",
+              "ToolTip": "C:\\Users\\snek\\Desktop\\calendar\\KALENDAR\\KALENDAR\\ChangeWindow.xaml",
+              "RelativeToolTip": "KALENDAR\\ChangeWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-02-27T15:57:20.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WatchWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\snek\\Desktop\\calendar\\KALENDAR\\KALENDAR\\WatchWindow.xaml",
+              "RelativeDocumentMoniker": "KALENDAR\\WatchWindow.xaml",
+              "ToolTip": "C:\\Users\\snek\\Desktop\\calendar\\KALENDAR\\KALENDAR\\WatchWindow.xaml",
+              "RelativeToolTip": "KALENDAR\\WatchWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-02-27T15:57:19.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\snek\\Desktop\\calendar\\KALENDAR\\KALENDAR\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "KALENDAR\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\snek\\Desktop\\calendar\\KALENDAR\\KALENDAR\\MainWindow.xaml.cs",
+              "RelativeToolTip": "KALENDAR\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T15:57:17.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\snek\\Desktop\\calendar\\KALENDAR\\KALENDAR\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "KALENDAR\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\snek\\Desktop\\calendar\\KALENDAR\\KALENDAR\\MainWindow.xaml",
+              "RelativeToolTip": "KALENDAR\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-02-27T15:57:15.029Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
